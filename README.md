@@ -1,6 +1,6 @@
 # Nike Shoe Review Topic Modeling
 
-###Contents
+### Contents
 - Pre-work notebooks
 - Final data analysis notebook
 - Model artifacts
